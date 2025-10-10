@@ -9,9 +9,16 @@ body {
     margin: 0;
 }
 
-
 button {
     background-color: #a10f0f;
     color: rgb(255, 238, 0);
     font-family: "Bai Jamjuree", sans-serif; 
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
 }
